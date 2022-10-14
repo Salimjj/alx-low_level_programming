@@ -4,3 +4,4 @@
 3-name script exicute a C file and create execution name
 4-puts.c file displays an output using puts
 5-printf.c C file print output using printf
+6-size.c C file prints the size of various types on the computer 
