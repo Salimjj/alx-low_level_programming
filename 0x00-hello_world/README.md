@@ -3,3 +3,4 @@
 2-assembler script generate the assembly code and save it
 3-name script exicute a C file and create execution name
 4-puts.c file displays an output using puts
+5-printf.c C file print output using printf
