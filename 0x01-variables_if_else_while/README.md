@@ -3,3 +3,4 @@
 2-print_alphabet.c print alphabet in lowercase
 3-print_alphabets.c print alphabet both in capital and small case
 5-print_numbers.c print single numbers
+6-print_numberz.c prints all single digit numbers of base 10
